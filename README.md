@@ -1,4 +1,4 @@
-# 🚀 Proyecto1 – Viaje Intergaláctico
+# 🚀 Proyecto – Practica de Caja Blanca - Viaje Intergaláctico
 
 ## 📌 Descripción del proyecto
 
