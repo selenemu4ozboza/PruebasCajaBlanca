@@ -60,8 +60,6 @@ public class Proyecto1 {
             casilla=1;
         }
         jugar(casilla,posicionGalaxia);
-        }else{
-            System.out.println("Muy mal.");
         }
         
     }
